@@ -1,0 +1,27 @@
+body{
+	background-image: url(../image/bg.jpg);
+	opacity: 0.7;
+	background-repeat: no-repeat;
+}
+#main{
+	margin-top: 80px;
+	margin-left:50px;
+}
+
+#rightmain{
+	min-height: 460px;
+	align:center;
+	background-color: #FFFFFF;
+	box-shadow: 10px 10px 10px 0 silver;
+}
+#text{
+	font-size: 40px;
+	font-family:"Î¢ÈíÑÅºÚ";
+	color:black;	
+}
+P{
+	margin-top: 60px;
+}	
+#form1{
+	padding-left: 100px;
+}
